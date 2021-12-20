@@ -8,11 +8,19 @@
 
 - 🔭 I’m currently working on Developing a community **Witchers Code**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning everything 😁 **.**
+
+- 👯 I’m looking to collaborate with other content creators **.**
+
+- 🥅 2022 Goals: Contribute more to Open Source projects **.**
+
+- 📝 I regularly write articles on hashnode [https://hashnode.com/@wasimfaiz7](https://hashnode.com/@wasimfaiz7)
 
 - 💬 Ask me about **Web development ,GSAP , Javascript , UI design**
 
 - 📫 How to reach me **thewasimfaiz@gmail.com**
+
+- ⚡ Fun fact **When I am not working I usually spend my time in kitchen To cook something delicious.🥘🍝**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -43,6 +51,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasimfaiz&show_icons=true&locale=en" alt="wasimfaiz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasimfaiz&" alt="wasimfaiz" /></p>
+
+
 
 
 
