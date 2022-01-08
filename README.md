@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/wasimfaiz8" target="blank"><img src="https://img.shields.io/twitter/follow/wasimfaiz8?logo=twitter&style=for-the-badge" alt="wasimfaiz8" /></a> </p>
 
-- 🔭 I’m currently working on Developing a community **Witchers Code**
+- 🔭 I’m currently working on **Witchers Code**
 
 - 🌱 I’m currently learning everything 😁 **.**
 
