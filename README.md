@@ -34,11 +34,8 @@
 <p align="left">
 
 <a href="https://codepen.io/wasimfaiz8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wasimfaiz8" height="30" width="40" /></a>
-
 <a href="https://twitter.com/wasimfaiz8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wasimfaiz8" height="30" width="40" /></a>
-
 <a href="https://linkedin.com/in/wasimfaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasim-faiz-8727881b3" height="30" width="40" /></a>
-
 <a href="https://fb.com/wasimfaiz8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wasimfaiz8" height="30" width="40" /></a>
 
 <a href="https://instagram.com/wasimfaiz7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_wasim_faiz" height="30" width="40" /></a>
