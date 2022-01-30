@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/wasimfaiz8" target="blank"><img src="https://img.shields.io/twitter/follow/wasimfaiz8?logo=twitter&style=for-the-badge" alt="wasimfaiz8" /></a> </p>
 
-- 🔭 I’m currently working on **Witchers Code**  <a href="https://github.com/witcherscode/" target="_blank">Wasim Faiz</a>
+- 🔭 Working on <a href="https://github.com/witcherscode/" target="_blank">witcherscode</a>
 
-- 🌱 I’m currently learning everything 😁 **.**https://github.com/witcherscode
+- 🌱 I’m currently learning  **Web 3.0 😁**
 
 - 👯 I’m looking to collaborate with other content creators **.**
 
