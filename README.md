@@ -2,7 +2,9 @@
  <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href="https://wasimfaiz.github.io/wasim/" target="_blank">Wasim Faiz</a>. Nice to see you.🤗 </h1> 
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+ <img align="right" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400">
+
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
 
 <h3 align="center">A passionate frontend developer and UI/UX designer ♻️</h3>
 
@@ -54,18 +56,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasimfaiz&show_icons=true&locale=en" alt="wasimfaiz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasimfaiz&" alt="wasimfaiz" /></p>
-
-
- <img align="center" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400">
-
-
-
-
-
-
-
-
-
 
 
 
